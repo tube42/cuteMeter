@@ -1,0 +1,10 @@
+
+TODO
+====
+
+ 1. the about and help views are not showing
+ 2. hide the active views when settings are showing?
+ 3. remove the help page altogether?
+
+ 4. the way data_ and the rest are defined can slow down drawing, see if that can be changed
+
